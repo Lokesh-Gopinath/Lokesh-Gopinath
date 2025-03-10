@@ -1,4 +1,4 @@
-# 💫 About Me: A newbie App Dev
+# 💫 About Me: A newbie Dev
                                          I'm currently working on Android apps & microcontroller projects.
                                          I'm currently learning dart, rust & mongodb.
 
