@@ -18,17 +18,17 @@ I'm currently learning Java Spring Boot Microservices.<br>
 <div align="center">
 
 <!-- Main Badge (Large) -->
-<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/main.png" height="150" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/main.png" height="180" />
 
 <br/><br/>
 
 <!-- All smaller badges horizontally -->
-<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b1.png" height="90" />
-<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b2.png" height="90" />
-<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b3.png" height="90" />
-<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b4.png" height="90" />
-<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b5.png" height="90" />
-<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b6.png" height="90" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b1.png" height="110" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b2.png" height="110" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b3.png" height="110" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b4.png" height="110" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b5.png" height="110" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b6.png" height="110" />
 </div>
 
 ---
@@ -102,7 +102,7 @@ I'm currently learning Java Spring Boot Microservices.<br>
 
 ---
 
-## 🟨 Pac-Man Contribution Graph  
+## 🟨 Contribution Graph  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/output/pacman-contribution-graph.svg">
