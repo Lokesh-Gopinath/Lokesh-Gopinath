@@ -104,7 +104,8 @@ I'm currently learning Java Spring Boot Microservices.<br>
 
 ## 🟨 Contribution Graph  
 
-![Pac-Man](https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/output/pacman-contribution-graph.svg)
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/output/pacman-contribution-graph.svg)
+
 
 ---
 
