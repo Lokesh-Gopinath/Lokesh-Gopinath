@@ -2,7 +2,7 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 */12 * *"   # run every 12 hours
+    - cron: "0 0,12 * * *"   # ✅ Runs at midnight and noon daily
   workflow_dispatch:
   push:
     branches:
@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4  # upgraded to v4 (recommended)
+        uses: actions/checkout@v4
 
       - name: Generate pacman contribution graph
         uses: abhisheknaiidu/gh-pacman@v1.0.0
