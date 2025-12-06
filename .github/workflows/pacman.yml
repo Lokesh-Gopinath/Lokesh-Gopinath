@@ -2,11 +2,10 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 0,12 * * *"   # Runs at midnight and noon daily
+    - cron: "0 0,12 * * *"   # runs twice daily
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
   generate:
@@ -15,22 +14,21 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate pacman contribution graph
-        uses: abhisheknaiidu/gh-pacman@v3
+      - name: Generate Pac-Man contribution graph
+        uses: lowlighter/metrics@latest
         with:
-          username: ${{ github.repository_owner }}
-
-      - name: Prepare output folder
-        run: |
-          mkdir -p output
-          mv pacman-contribution-graph.svg output/
-          mv pacman-contribution-graph-dark.svg output/
+          filename: output/pacman-contribution-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          base: ""
+          plugin_pac: yes
+          plugin_pac_year: ""  # current year by default
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: output
