@@ -1,0 +1,38 @@
+name: Generate pacman animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # run every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate pacman contribution graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Prepare output folder
+        run: |
+          mkdir -p output
+          mv pacman-contribution-graph.svg output/
+          mv pacman-contribution-graph-dark.svg output/
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
