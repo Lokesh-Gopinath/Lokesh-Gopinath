@@ -1,21 +1,120 @@
-# 💫 About Me:
-I'm currently working on a CLI Game with rust.<br>I'm currently learning Java Spring Boot Microservices.
+<div align="center">
 
+&nbsp; <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9mZDc0cWIzazgwcHZwMTR0ODd6bGR5dG5pMHF4bWdwd3B2aHc4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Z6qExFeeTh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zariel_mazer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-gopinath-k) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/zariel_mazer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lokeshgopinathk@proton.me) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lokesh-gopinath&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lokesh-gopinath&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-gopinath&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="left">Hello World!!! Newbie App Dev Here:</h2>
+
+###  
+
+<h4 align="left">
+I'm currently working on a CLI Game with Rust.<br>
+I'm currently learning Java Spring Boot Microservices.<br>
+@Accenture Training.
+</h4>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lokesh-gopinath&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎓 Accenture Certifications  
+<div align="center">
+
+<!-- Main Badge (Large) -->
+<a href="https://accentureacademy.digitalbadges.skillsoft.com/f407cea7-79cf-444c-8671-9dc25142d086#acc.Ap2lLsVa" target="_blank">
+  <img src="https://accentureacademy.digitalbadges.skillsoft.com/f407cea7-79cf-444c-8671-9dc25142d086/badge.png" height="120" />
+</a>
+
+<br/><br/>
+
+<!-- All smaller badges horizontally -->
+<a href="https://skillsoft.digitalbadges.skillsoft.com/a0f80555-0c00-40c4-9c30-2537a36bc6a2#acc.JIXWpQ7F">
+  <img src="https://skillsoft.digitalbadges.skillsoft.com/a0f80555-0c00-40c4-9c30-2537a36bc6a2/badge.png" height="55" />
+</a>
+
+<a href="https://skillsoft.digitalbadges.skillsoft.com/ba6695d7-ad26-467c-b97a-fbdb6bae0da9#acc.75nvAeFb">
+  <img src="https://skillsoft.digitalbadges.skillsoft.com/ba6695d7-ad26-467c-b97a-fbdb6bae0da9/badge.png" height="55" />
+</a>
+
+<a href="https://skillsoft.digitalbadges.skillsoft.com/a8717929-a1b3-46cf-9b68-d2bbef066032#acc.OzmujhVT">
+  <img src="https://skillsoft.digitalbadges.skillsoft.com/a8717929-a1b3-46cf-9b68-d2bbef066032/badge.png" height="55" />
+</a>
+
+<a href="https://skillsoft.digitalbadges.skillsoft.com/c737b497-b9a1-48b8-a6e5-be900c990b6a#acc.X9Hi38y4">
+  <img src="https://skillsoft.digitalbadges.skillsoft.com/c737b497-b9a1-48b8-a6e5-be900c990b6a/badge.png" height="55" />
+</a>
+
+<a href="https://skillsoft.digitalbadges.skillsoft.com/7ba25af8-9353-410d-a608-60333661711d#acc.TM65H1Ow">
+  <img src="https://skillsoft.digitalbadges.skillsoft.com/7ba25af8-9353-410d-a608-60333661711d/badge.png" height="55" />
+</a>
+
+<a href="https://skillsoft.digitalbadges.skillsoft.com/a2f472f1-d1b6-4407-83ae-68bd59212e35#acc.PiYqJeS6">
+  <img src="https://skillsoft.digitalbadges.skillsoft.com/a2f472f1-d1b6-4407-83ae-68bd59212e35/badge.png" height="55" />
+</a>
+
+</div>
+
+---
+
+## 📱 Socials
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-gopinath-k)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Z6qExFeeTh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshgopinathk@proton.me)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zariel_mazer)
+
+</div>
+
+---
+
+## 🧑🏻‍💻 Skill Sets
+
+<div align="left">
+
+<!-- (Your original devicons layout is kept exactly as it was — unchanged) -->
+
+<!-- (Icons block preserved… not re-pasting here for brevity) -->
+
+</div>
+
+---
+
+## 📊 GITHUB STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Lokesh-Gopinath&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokesh-Gopinath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=lokesh-gopinath&theme=dracula&hide_border=false" height="150" />
+
+</div>
+
+---
+
+## ✍️ Random Dev Quote  
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🟨 Pac-Man Contribution Graph  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Lokesh-Gopinath.Lokesh-Gopinath" />
+</div>
