@@ -18,32 +18,17 @@ I'm currently learning Java Spring Boot Microservices.<br>
 <div align="center">
 
 <!-- Main Badge (Large) -->
-<a href="https://accentureacademy.digitalbadges.skillsoft.com/f407cea7-79cf-444c-8671-9dc25142d086#acc.Ap2lLsVa" target="_blank">
-  <img src="https://accentureacademy.digitalbadges.skillsoft.com/f407cea7-79cf-444c-8671-9dc25142d086/badge.png" height="120" />
-</a>
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/main.png" height="120" />
 
 <br/><br/>
 
 <!-- All smaller badges horizontally -->
-<a href="https://skillsoft.digitalbadges.skillsoft.com/a0f80555-0c00-40c4-9c30-2537a36bc6a2#acc.JIXWpQ7F">
-  <img src="https://skillsoft.digitalbadges.skillsoft.com/a0f80555-0c00-40c4-9c30-2537a36bc6a2/badge.png" height="55" />
-</a>
-<a href="https://skillsoft.digitalbadges.skillsoft.com/ba6695d7-ad26-467c-b97a-fbdb6bae0da9#acc.75nvAeFb">
-  <img src="https://skillsoft.digitalbadges.skillsoft.com/ba6695d7-ad26-467c-b97a-fbdb6bae0da9/badge.png" height="55" />
-</a>
-<a href="https://skillsoft.digitalbadges.skillsoft.com/a8717929-a1b3-46cf-9b68-d2bbef066032#acc.OzmujhVT">
-  <img src="https://skillsoft.digitalbadges.skillsoft.com/a8717929-a1b3-46cf-9b68-d2bbef066032/badge.png" height="55" />
-</a>
-<a href="https://skillsoft.digitalbadges.skillsoft.com/c737b497-b9a1-48b8-a6e5-be900c990b6a#acc.X9Hi38y4">
-  <img src="https://skillsoft.digitalbadges.skillsoft.com/c737b497-b9a1-48b8-a6e5-be900c990b6a/badge.png" height="55" />
-</a>
-<a href="https://skillsoft.digitalbadges.skillsoft.com/7ba25af8-9353-410d-a608-60333661711d#acc.TM65H1Ow">
-  <img src="https://skillsoft.digitalbadges.skillsoft.com/7ba25af8-9353-410d-a608-60333661711d/badge.png" height="55" />
-</a>
-<a href="https://skillsoft.digitalbadges.skillsoft.com/a2f472f1-d1b6-4407-83ae-68bd59212e35#acc.PiYqJeS6">
-  <img src="https://skillsoft.digitalbadges.skillsoft.com/a2f472f1-d1b6-4407-83ae-68bd59212e35/badge.png" height="55" />
-</a>
-
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b1.png" height="55" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b2.png" height="55" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b3.png" height="55" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b4.png" height="55" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b5.png" height="55" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b6.png" height="55" />
 </div>
 
 ---
