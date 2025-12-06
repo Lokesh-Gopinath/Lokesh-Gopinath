@@ -2,7 +2,7 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # run every 12 hours
+    - cron: "0 */12 * *"   # run every 12 hours
   workflow_dispatch:
   push:
     branches:
@@ -16,12 +16,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # upgraded to v4 (recommended)
 
       - name: Generate pacman contribution graph
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abhisheknaiidu/gh-pacman@v1.0.0
         with:
-          github_user_name: ${{ github.repository_owner }}
+          username: ${{ github.repository_owner }}
 
       - name: Prepare output folder
         run: |
