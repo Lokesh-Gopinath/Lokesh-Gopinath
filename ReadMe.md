@@ -18,17 +18,17 @@ I'm currently learning Java Spring Boot Microservices.<br>
 <div align="center">
 
 <!-- Main Badge (Large) -->
-<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/main.png" height="120" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/main.png" height="150" />
 
 <br/><br/>
 
 <!-- All smaller badges horizontally -->
-<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b1.png" height="55" />
-<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b2.png" height="55" />
-<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b3.png" height="55" />
-<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b4.png" height="55" />
-<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b5.png" height="55" />
-<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b6.png" height="55" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b1.png" height="90" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b2.png" height="90" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b3.png" height="90" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b4.png" height="90" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b5.png" height="90" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/b6.png" height="90" />
 </div>
 
 ---
