@@ -79,6 +79,7 @@ I'm currently learning Java Spring Boot Microservices.<br>
 <img src="https://skillicons.dev/icons?i=aws" height="40" />
 <img src="https://skillicons.dev/icons?i=firebase" height="40" />
 <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="40" />
+<img src="https://cdn.simpleicons.org/wireguard/8C96C6" height="40" />
 
 </div>
 
