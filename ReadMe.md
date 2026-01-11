@@ -19,6 +19,7 @@ I'm currently learning Java Spring Boot Microservices.<br>
 
 <!-- Main Badge (Large) -->
 <img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/main.png" height="180" />
+<img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/main2.png" height="180" />
 
 <br/><br/>
 
