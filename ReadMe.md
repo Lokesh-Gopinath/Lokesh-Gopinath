@@ -14,7 +14,7 @@ I'm currently learning Java Spring Boot Microservices.<br>
 
 ---
 
-## 🎓 Accenture Certifications  
+## 🎓 Certifications  
 <div align="center">
 
 <!-- Main Badge (Large) -->
