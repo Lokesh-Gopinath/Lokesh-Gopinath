@@ -2,6 +2,7 @@
   <img height="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9mZDc0cWIzazgwcHZwMTR0ODd6bGR5dG5pMHF4bWdwd3B2aHc4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" />
   <h1>HELLO WORLD</h1>
   <h3>I am Newbie App Dev</h3>
+  <h3>I am Currently</h3>
 </div>
 
 <h3 align="center">
@@ -33,10 +34,9 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-gopinath-k)
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Z6qExFeeTh)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshgopinathk@proton.me)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zariel_mazer)
+<a href="https://linkedin.com/in/lokesh-gopinath-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-gopinath-k" height="30" width="40" /></a>
+<a href="https://instagram.com/zariel_mazer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zariel_mazer" height="30" width="40" /></a>
+</p>
 </div>
 
 <hr>
@@ -79,7 +79,7 @@
   <img src="https://iconic-api.onrender.com/dark/postman" width="72" alt="Postman" />
   <img src="https://iconic-api.onrender.com/dark/tor" width="72" alt="Tor" />
   <img src="https://iconic-api.onrender.com/dark/markdown" width="72" alt="Markdown" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="72" alt="Spring Boot"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="72" />
   <img src="https://cdn.simpleicons.org/wireguard/FF0000" width="72" alt="WireGuard"/>
   <img src="https://cdn.simpleicons.org/arduino/00979C" width="72" alt="Arduino"/>
   <img src="https://cdn.simpleicons.org/raspberrypi/C51A4A" width="72" alt="Raspberry Pi"/>
