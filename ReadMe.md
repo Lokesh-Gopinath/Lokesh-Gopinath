@@ -8,7 +8,7 @@
 <h3 align="center">
   Building a CLI Game in <strong>Rust</strong> 🦀<br>
   Learning <strong>Java Spring Boot Microservices</strong> ☕<br>
-  Currently training @ <strong>Accenture</strong> 
+  Training @ <strong>Accenture</strong> 
 </h3>
 
 <hr>
