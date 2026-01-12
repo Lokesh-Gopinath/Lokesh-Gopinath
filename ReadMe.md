@@ -84,8 +84,6 @@
   <img src="https://cdn.simpleicons.org/arduino/00979C" width="72" alt="Arduino"/>
   <img src="https://cdn.simpleicons.org/raspberrypi/C51A4A" width="72" alt="Raspberry Pi"/>
 
-  
-
 </div>
 
 
