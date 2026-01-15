@@ -46,43 +46,44 @@
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; margin: 25px 0;">
 
   <!-- All matching ICONIC light icons -->
-  <img src="https://iconic-api.onrender.com/light/rust"        width="72" alt="Rust"/>
-  <img src="https://iconic-api.onrender.com/light/java"        width="72" alt="Java"/>
-  <img src="https://iconic-api.onrender.com/light/python"      width="72" alt="Python"/>
-  <img src="https://iconic-api.onrender.com/light/kotlin"      width="72" alt="Kotlin"/>
-  <img src="https://iconic-api.onrender.com/light/dart"        width="72" alt="Dart"/>
-  <img src="https://iconic-api.onrender.com/light/cpp"         width="72" alt="C++"/>
-  <img src="https://iconic-api.onrender.com/light/html"        width="72" alt="HTML"/>
-  <img src="https://iconic-api.onrender.com/light/css"         width="72" alt="CSS"/>
-  <img src="https://iconic-api.onrender.com/light/js"          width="72" alt="JavaScript"/>
-  <img src="https://iconic-api.onrender.com/light/typescript"  width="72" alt="TypeScript"/>
-  <img src="https://iconic-api.onrender.com/light/flutter"     width="72" alt="Flutter"/>
-  <img src="https://iconic-api.onrender.com/light/vite"        width="72" alt="Vite"/>
-  <img src="https://iconic-api.onrender.com/light/nodejs"      width="72" alt="Node.js"/>
-  <img src="https://iconic-api.onrender.com/light/git"         width="72" alt="Git"/>
-  <img src="https://iconic-api.onrender.com/light/github"      width="72" alt="GitHub"/>
-  <img src="https://iconic-api.onrender.com/light/vercel"      width="72" alt="Vercel"/>
-  <img src="https://iconic-api.onrender.com/light/netlify"     width="72" alt="Netlify"/>
-  <img src="https://iconic-api.onrender.com/light/linux"       width="72" alt="Linux"/>
-  <img src="https://iconic-api.onrender.com/light/vim"         width="72" alt="Vim"/>
-  <img src="https://iconic-api.onrender.com/light/jira"        width="72" alt="Jira"/>
-  <img src="https://iconic-api.onrender.com/light/notion"      width="72" alt="Notion"/>
-  <img src="https://iconic-api.onrender.com/light/mysql"       width="72" alt="MySQL"/>
-  <img src="https://iconic-api.onrender.com/light/mongodb"     width="72" alt="MongoDB"/>
-  <img src="https://iconic-api.onrender.com/light/aws"         width="72" alt="AWS"/>
-  <img src="https://iconic-api.onrender.com/light/firebase"    width="72" alt="Firebase"/>
-  <img src="https://iconic-api.onrender.com/light/ae"          width="72" alt="After Effects"/>
-  <img src="https://iconic-api.onrender.com/light/android-studio" width="72" alt="Android Studio"/>
-  <img src="https://iconic-api.onrender.com/light/eclipse"     width="72" alt="Eclipse"/>
-  <img src="https://iconic-api.onrender.com/light/github-pages"     width="72" alt="Githuh-Pages"/>
-  <img src="https://iconic-api.onrender.com/light/render"      width="72" alt="Render"/>
-  <img src="https://iconic-api.onrender.com/dark/postman" width="72" alt="Postman" />
-  <img src="https://iconic-api.onrender.com/dark/tor" width="72" alt="Tor" />
-  <img src="https://iconic-api.onrender.com/dark/markdown" width="72" alt="Markdown" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="72" />
-  <img src="https://cdn.simpleicons.org/wireguard/FF0000" width="72" alt="WireGuard"/>
-  <img src="https://cdn.simpleicons.org/arduino/00979C" width="72" alt="Arduino"/>
-  <img src="https://cdn.simpleicons.org/raspberrypi/C51A4A" width="72" alt="Raspberry Pi"/>
+  <img src="https://iconic-api.onrender.com/light/rust"                   width="72" alt="Rust"/>
+  <img src="https://iconic-api.onrender.com/light/java"                   width="72" alt="Java"/>
+  <img src="https://iconic-api.onrender.com/light/python"                 width="72" alt="Python"/>
+  <img src="https://iconic-api.onrender.com/light/kotlin"                 width="72" alt="Kotlin"/>
+  <img src="https://iconic-api.onrender.com/light/dart"                   width="72" alt="Dart"/>
+  <img src="https://iconic-api.onrender.com/light/cpp"                    width="72" alt="C++"/>
+  <img src="https://iconic-api.onrender.com/light/html"                   width="72" alt="HTML"/>
+  <img src="https://iconic-api.onrender.com/light/css"                    width="72" alt="CSS"/>
+  <img src="https://iconic-api.onrender.com/light/js"                     width="72" alt="JavaScript"/>
+  <img src="https://iconic-api.onrender.com/light/typescript"             width="72" alt="TypeScript"/>
+  <img src="https://iconic-api.onrender.com/light/flutter"                width="72" alt="Flutter"/>
+  <img src="https://iconic-api.onrender.com/light/vite"                   width="72" alt="Vite"/>
+  <img src="https://iconic-api.onrender.com/light/nodejs"                 width="72" alt="Node.js"/>
+  <img src="https://iconic-api.onrender.com/light/git"                    width="72" alt="Git"/>
+  <img src="https://iconic-api.onrender.com/light/github"                 width="72" alt="GitHub"/>
+  <img src="https://iconic-api.onrender.com/dark/gitlab"                  width="72px" alt="Gitlab"/>
+  <img src="https://iconic-api.onrender.com/light/github-pages"           width="72" alt="Githuh-Pages"/>
+  <img src="https://iconic-api.onrender.com/light/vercel"                 width="72" alt="Vercel"/>
+  <img src="https://iconic-api.onrender.com/light/netlify"                width="72" alt="Netlify"/>
+  <img src="https://iconic-api.onrender.com/light/linux"                  width="72" alt="Linux"/>
+  <img src="https://iconic-api.onrender.com/light/vim"                    width="72" alt="Vim"/>
+  <img src="https://iconic-api.onrender.com/light/jira"                   width="72" alt="Jira"/>
+  <img src="https://iconic-api.onrender.com/light/notion"                 width="72" alt="Notion"/>
+  <img src="https://iconic-api.onrender.com/light/mysql"                  width="72" alt="MySQL"/>
+  <img src="https://iconic-api.onrender.com/light/mongodb"                width="72" alt="MongoDB"/>
+  <img src="https://iconic-api.onrender.com/light/aws"                    width="72" alt="AWS"/>
+  <img src="https://iconic-api.onrender.com/light/firebase"               width="72" alt="Firebase"/>
+  <img src="https://iconic-api.onrender.com/light/ae"                     width="72" alt="After Effects"/>
+  <img src="https://iconic-api.onrender.com/light/android-studio"         width="72" alt="Android Studio"/>
+  <img src="https://iconic-api.onrender.com/light/eclipse"                width="72" alt="Eclipse"/>
+  <img src="https://iconic-api.onrender.com/light/render"                 width="72" alt="Render"/>
+  <img src="https://iconic-api.onrender.com/dark/postman"                 width="72" alt="Postman" />
+  <img src="https://iconic-api.onrender.com/dark/tor"                     width="72" alt="Tor" />
+  <img src="https://iconic-api.onrender.com/dark/markdown"                width="72" alt="Markdown" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="72" alt="spring"/>
+  <img src="https://cdn.simpleicons.org/wireguard/FF0000"                 width="72" alt="WireGuard"/>
+  <img src="https://cdn.simpleicons.org/arduino/00979C"                   width="72" alt="Arduino"/>
+  <img src="https://cdn.simpleicons.org/raspberrypi/C51A4A"               width="72" alt="Raspberry Pi"/>
 
 </div>
 
