@@ -16,7 +16,7 @@
 <h2 align="center">🏆 Certifications</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/main.png" height="190" />
+  <img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/main.png"  height="190" />
   <img src="https://raw.githubusercontent.com/Lokesh-Gopinath/Lokesh-Gopinath/main/badges/main2.png" height="190" />
 </div>
 
