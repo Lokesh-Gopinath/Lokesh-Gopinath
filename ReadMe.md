@@ -1,14 +1,12 @@
 <div align="center">
   <img height="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9mZDc0cWIzazgwcHZwMTR0ODd6bGR5dG5pMHF4bWdwd3B2aHc4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" />
   <h1>HELLO WORLD</h1>
-  <h3>I am Newbie App Dev</h3>
+  <h3>I am Newbie App Dev & Software / Embbedded Engineer</h3>
   <h3>I am Currently</h3>
 </div>
 
 <h3 align="center">
-  Building a CLI Game in <strong>Rust</strong> 🦀<br>
-  Learning <strong>Java Spring Boot Microservices</strong> ☕<br>
-  Training @ <strong>Accenture</strong> 
+  Building a *ESP Micro NAS* with *ESP32, ESP8266 & SD-Card as storage*<br>
 </h3>
 
 <hr>
