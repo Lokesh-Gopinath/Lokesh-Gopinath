@@ -23,9 +23,6 @@ Focus: file handling, networking, constrained system design.
 ### 🔹 Sudoku Solver
 Algorithmic solver implementing backtracking & optimization techniques.
 
-### 🔹 Portfolio Website
-Personal developer portfolio showcasing projects and experiments.
-
 ### 🔹 Vigenere Cipher
 Implementation of classical encryption techniques with analysis tools.
 
