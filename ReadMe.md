@@ -20,11 +20,11 @@ I build low-level systems combining hardware and software — from ESP32-based s
 A lightweight network-attached storage system built using ESP32 and SD card storage.  
 Focus: file handling, networking, constrained system design.
 
-### 🔹 Sudoku Solver
-Algorithmic solver implementing backtracking & optimization techniques.
-
 ### 🔹 Vigenere Cipher
 Implementation of classical encryption techniques with analysis tools.
+
+### 🔹 Sudoku Solver
+Algorithmic solver implementing backtracking & optimization techniques.
 
 ---
 
