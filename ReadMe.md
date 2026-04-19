@@ -29,9 +29,20 @@ Algorithmic solver implementing backtracking & optimization techniques.
 ---
 
 ## 🛠 Tech Stack
-**Core:** C/C++, Java, Python  
-**Embedded:** ESP32, Arduino  
-**Backend:** Node.js, MySQL, MongoDB  
-**Tools:** Docker (learning), Git, Linux
+**Core:** 
+  -> C/C++, 
+  -> Java, 
+  -> Python  
+**Embedded:** 
+  -> ESP32, 
+  -> Arduino  
+**Backend:** 
+  -> Node.js, 
+  -> MySQL, 
+  -> MongoDB  
+**Tools:** 
+  -> Docker (learning), 
+  -> Git, 
+  -> Linux
 
 ---
